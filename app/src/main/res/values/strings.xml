@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExemploHttp</string>
+    <string name="label_descricao">Descrição</string>
+    <string name="label_prioridade">Prioridade</string>
+</resources>
